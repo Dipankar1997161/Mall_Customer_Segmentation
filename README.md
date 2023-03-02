@@ -6,6 +6,8 @@ Customer segmentation  means grouping  customers by different characteristics (f
 It's a way for companies to understand their customers. Knowing the differences between customer groups facilitates strategic decisions related to product growth and marketing.
 The possibilities for segmentation are endless and mostly depend  on the amount of customer data  at your disposal.Starting from  basic criteria like gender, hobbies, age, etc., to "time spent on website X" and " The time since the  user opened the app”.
 
+ ![image](https://user-images.githubusercontent.com/85514219/222490471-7767096f-c1c8-467b-a06a-ba03a4feb291.png)
+
 ## K-Means Clustering
 K-Means clustering is an efficient machine learning algorithm to solve data clustering problems. It’s an unsupervised algorithm that’s quite suitable for solving customer segmentation problems. Before we move on, let’s quickly explore two key concepts
 
