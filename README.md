@@ -37,7 +37,3 @@ Install missing dependencies using,
 
     pip install pandas numpy matplotlib seaborn sklearn
 
-
-## Files
-The "Dataset" Folder consists of the csv file used in the project.
-The IPython Files consist 2 forms of implementation: Basic and Detailed
