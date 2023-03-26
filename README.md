@@ -39,3 +39,12 @@ Install missing dependencies using,
 
     pip install pandas numpy matplotlib seaborn sklearn
 
+## Results
+### Before applying K-means
+![customer segmentation 2](https://user-images.githubusercontent.com/85514219/227789260-837582ef-629d-4c9b-ab36-4eec1b669bfa.png)
+
+### After applying K-means
+Found the best K using elbow-method
+![customer segmentation 1](https://user-images.githubusercontent.com/85514219/227789301-b94094e2-0f93-48db-b4cb-0a262dce2874.png)
+
+## Thank you
