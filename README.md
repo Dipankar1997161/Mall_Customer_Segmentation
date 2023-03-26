@@ -47,11 +47,8 @@ Install missing dependencies using,
 Found the best K using elbow-method
 ![customer segmentation 1](https://user-images.githubusercontent.com/85514219/227789301-b94094e2-0f93-48db-b4cb-0a262dce2874.png)
 
-### Basic results:
+### 3D results:
 ![Basic k-means](https://user-images.githubusercontent.com/85514219/227789514-dd697c58-ee79-4438-9de5-329ee421ab45.png)
-
-### Better Segmentation
-![better segmentation](https://user-images.githubusercontent.com/85514219/227789534-24b4eda7-77d7-4b1c-af2c-66c13999ee0c.png)
 
 
 ## Thank you
